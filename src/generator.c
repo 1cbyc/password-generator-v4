@@ -14,7 +14,7 @@ void generate_password(int length, int use_uppercase, int use_digits, int use_sy
     char charset[100] = "";
 
     // that said, i will set up adding lowercase logic by default
-        strcat(charset, lowercase);
+    strcat(charset, lowercase);
 
     if (use_uppercase)
         strcat(charset, uppercase);
