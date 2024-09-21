@@ -12,4 +12,5 @@ that said, i have to make the main module i will use to manage the program flow.
 
 ## this is how it works
 
-1. run the ma
+1. run the make command
+2
