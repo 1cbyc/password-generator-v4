@@ -15,4 +15,4 @@ Config get_user_preferences() {
     return config;
 }
 
-// my intention here is to handle how the user provides 
+// my intention here is to handle how the user provides input
