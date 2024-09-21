@@ -30,5 +30,7 @@ void generate_password(int length, int use_uppercase, int use_digits, int use_sy
         int index = rand() % charset_size;
         password[i] = charset[index];
     }
-    password[length] = '\0'; // can terminate the string this way
+    password[length] = '\0'; // can null-terminate the string this way
+
+        printf("Generated Password: %s\n", password);
     
