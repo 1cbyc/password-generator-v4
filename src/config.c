@@ -6,7 +6,7 @@
 
 Config get_user_preferences() {
     Config config;
-    printf("Enter password length: ");
+    printf("you can enter password length: ");
     scanf("%d", &config.length);
     printf("Use uppercase letters? (1 for yes, 0 for no): ");
     scanf("%d", &config.use_uppercase);
