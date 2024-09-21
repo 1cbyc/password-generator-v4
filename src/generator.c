@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-#include <string.h> //i added this t
+#include <string.h> //i added this to help me include string functions
 #include "generator.h"
 
 
