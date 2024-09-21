@@ -8,4 +8,4 @@ the core functionality:
 2. include options for character sets (lowercase, uppercase, digits, symbols).
 3. allow users to specify the length and complexity.
 
-that said, i have to make the main module i will use to manage the program flow. then, build the randomness module for generating secure random integers. after which i will design the password generation module to help me with constructing passwords based on what the user defined for it. that said, i am thinking i should add a confog
+that said, i have to make the main module i will use to manage the program flow. then, build the randomness module for generating secure random integers. after which i will design the password generation module to help me with constructing passwords based on what the user defined for it. that said, i am thinking i should add a configuration file 
