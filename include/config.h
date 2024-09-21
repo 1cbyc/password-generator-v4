@@ -12,4 +12,4 @@ Config get_user_preferences();
 
 #endif
 
-// so i am trying to define 
+// so i am trying to define configurations for 
