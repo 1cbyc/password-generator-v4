@@ -32,5 +32,6 @@ void generate_password(int length, int use_uppercase, int use_digits, int use_sy
     }
     password[length] = '\0'; // can null-terminate the string this way
 
-        printf("Generated Password: %s\n", password);
+    printf("Generated Password: %s\n", password);
+
     
