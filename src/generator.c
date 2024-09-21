@@ -23,4 +23,12 @@ void generate_password(int length, int use_uppercase, int use_digits, int use_sy
     if (use_symbols)
         strcat(charset, symbols);
 
+    int charset_size = strlen(charset);
+    srand(time(0));
 
+    for (int i = 0; i < length; i++) {
+        int index = rand() % charset_size;
+        password[i] = charset[index];
+    }
+    password[length] = '\0';  // Null-terminate the string
+    
