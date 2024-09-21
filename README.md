@@ -10,4 +10,6 @@ the core functionality:
 
 that said, i have to make the main module i will use to manage the program flow. then, build the randomness module for generating secure random integers. after which i will design the password generation module to help me with constructing passwords based on what the user defined for it. that said, i am thinking i should add a configuration file input handling method to allow anyone have their own configuration method for passwords in case anyone wants to use my tool for their application. since all that would've been done i will make a way for logging errors; atleast to save generation history in a way.
 
-## how it works
+## this is how it works
+
+1. run the ma
