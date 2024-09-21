@@ -1,9 +1,6 @@
 #include <stdio.h>
 #include "config.h"
 
-#include <stdio.h>
-#include "config.h"
-
 Config get_user_preferences() {
     Config config;
     printf("you can enter password length: ");
