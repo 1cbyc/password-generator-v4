@@ -7,3 +7,5 @@ the core functionality:
 1. generate strong random passwords of variable lengths.
 2. include options for character sets (lowercase, uppercase, digits, symbols).
 3. allow users to specify the length and complexity.
+
+that said, 
