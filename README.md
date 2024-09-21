@@ -4,6 +4,6 @@ the thing is, this project was first built with c# by me 3 years ago. i intend t
 
 the core functionality:
 
-    Generate strong random passwords of variable lengths.
-    Include options for character sets (lowercase, uppercase, digits, symbols).
+1. generate strong random passwords of variable lengths.
+2. include options for character sets (lowercase, uppercase, digits, symbols).
     Allow users to specify the length and complexity.
