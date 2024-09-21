@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
+#include <string.h> //
 #include "generator.h"
 
 void generate_password(int length, int use_uppercase, int use_digits, int use_symbols) {
