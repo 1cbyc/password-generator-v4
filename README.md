@@ -12,7 +12,7 @@ that said, i have to make the main module i will use to manage the program flow.
 
 ## this is how it works
 
-1. run the make command
+1. run the `make` command
 2. run the program
 
 ![see this](Screenshot-2024-09-21-at-90423PM.png)
