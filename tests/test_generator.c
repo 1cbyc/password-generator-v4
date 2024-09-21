@@ -2,7 +2,7 @@
 #include "generator.h"
 
 void test_generate_password() {
-    // while at it, i will keep 
+    // while at it, i will keep adding specific tests
     generate_password(10, 1, 1, 1);
 }
 
